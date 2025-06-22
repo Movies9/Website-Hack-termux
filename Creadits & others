@@ -1,1 +1,108 @@
+This script:
+
+Installs dependencies
+
+Clones tools (RED HAWK, fsociety)
+
+Creates a global WEBSITE command
+
+
+
+---
+
+🚀 Usage
+
+After installation, simply type:
+
+WEBSITE
+
+You'll get a full interactive menu with tools like:
+
+WHOIS via RDAP
+
+RED HAWK (SQLi scanner, CMS detection)
+
+fsociety hacking toolkit
+
+Nmap port scan
+
+Subdomain scanner
+
+CMS fingerprinting
+
+
+
+---
+
+🧰 Features
+
+#	Tool Name	Description
+
+1	RED HAWK	All-in-one PHP-based website scanner
+2	fsociety	Pen-testing toolkit from Mr. Robot series
+3	RDAP WHOIS	Clean domain ownership info
+4	Subdomain Scanner	Uses Hackertarget API
+5	CMS Detector	Detects WordPress, Joomla, etc
+6	Nmap	Basic TCP port scanning
+
+
+
+---
+
+⚙️ Requirements
+
+✅ Termux on Android
+
+✅ Internet access
+
+❌ No root needed
+
+
+
+---
+
+🧑‍💻 Developer
+
+Project Builder: [YOUR_USERNAME]
+Project Name: WEBSITE-HACK-TERMUX
+
+
+---
+
+🙏 CREDIT
+
+Special thanks and full credit to the original authors of the powerful tools used in this suite:
+
+🔷 RED HAWK
+Author: @Tuhinshubhra
+Repo: https://github.com/Tuhinshubhra/RED_HAWK
+
+🔷 fsociety
+Author: @Manisso
+Repo: https://github.com/Manisso/fsociety
+
+
+> These tools are bundled only. All core features and scanning capabilities belong to their respective creators.
+
+
+
+
+---
+
+⚠️ Disclaimer
+
+> This tool is made for educational and ethical testing purposes only.
+Use this software only on websites you own or have permission to audit.
+The creator is not responsible for any misuse.
+
+
+
+
+---
+
+📁 Repository: Website-Hack-termux
+
+Give this repo a ⭐ if you found it useful!
+
+---
 
